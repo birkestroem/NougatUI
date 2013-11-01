@@ -1,4 +1,4 @@
-NougatJS
+NougatUI
 ========
 
-NodeJS package for Nuget
+A complete frontend toolchain in a single Nuget package
