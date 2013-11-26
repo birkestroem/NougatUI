@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>NougatUI</id>
+    <version>1.0.0</version>
+    <authors>Jesper Birkestrøm</authors>
+    <owners>Jesper Birkestrøm</owners>
+    <licenseUrl>https://github.com/birkestroem/NougatUI/blob/master/license.md</licenseUrl>
+    <projectUrl>https://github.com/birkestroem/NougatUI</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A complete frontend toolchain in a single Nuget package</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>javascript nodejs npm compass style ruby css sass scss grunt</tags>
+  </metadata>
+</package>
