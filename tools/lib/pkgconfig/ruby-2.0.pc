@@ -1,5 +1,5 @@
-arch=x64-mingw32
-sitearch=x64-msvcrt
+arch=i386-mingw32
+sitearch=i386-msvcrt
 prefix=C:/Users/Luis/Code/oneclick/rubyinstaller/sandbox/ruby19_mingw
 exec_prefix=${prefix}
 bindir=${exec_prefix}/bin
@@ -12,7 +12,7 @@ ruby_version=2.0.0
 RUBY_PROGRAM_VERSION=2.0.0
 RUBY_BASE_NAME=ruby
 RUBY_VERSION_NAME=${RUBY_BASE_NAME}-${ruby_version}
-RUBY_SO_NAME=x64-msvcrt-${RUBY_BASE_NAME}${MAJOR}${MINOR}${TEENY}
+RUBY_SO_NAME=msvcrt-${RUBY_BASE_NAME}${MAJOR}${MINOR}${TEENY}
 RUBY_INSTALL_NAME=${RUBY_BASE_NAME}
 DEFFILE=
 LIBPATH=

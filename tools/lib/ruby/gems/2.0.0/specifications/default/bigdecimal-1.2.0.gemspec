@@ -13,6 +13,6 @@ Gem::Specification.new do |s|
   s.files = ["bigdecimal/jacobian.rb", "bigdecimal/ludcmp.rb", "bigdecimal/math.rb", "bigdecimal/newton.rb", "bigdecimal/util.rb", "bigdecimal.so", "extconf.rb"]
   s.homepage = "http://www.ruby-lang.org"
   s.require_paths = ["."]
-  s.rubygems_version = "2.0.3"
+  s.rubygems_version = "2.0.14"
   s.summary = "Arbitrary-precision decimal floating-point number library."
 end
